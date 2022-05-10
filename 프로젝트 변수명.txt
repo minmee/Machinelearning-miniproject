@@ -1,0 +1,43 @@
+머신러닝 프로젝트 데이터 변수 설명
+
+index
+gender - 성별
+car - 차량 소유 여부
+reality - 부동산 소유 여부
+child_num - 자녀 수
+income_total - 연간 소득
+income_type - 소득 분류
+(Commercial associate - 상업 동료(자영업자)
+Working - 재직자(회사원)
+State servant - 공무원
+Pensioner - 연금 수령자(퇴직자)
+Student - 학생)
+edu_type - 교육 수준 
+(Higher education - 대졸(2, 3년제)
+Secondary/secondary special - 고졸
+Incomplete higher - 대학교 중퇴
+Lower secondary - 중졸
+Academic degree - 대졸(4년제, 석사, 학사, 박사))
+family_type - 결혼 여부
+(Married - 결혼한
+Civil marriage - 동거(사실혼)
+Separated - 별거한
+Single/not married - 결혼 안한
+Widow - 과부)
+house_type - 생활 방식
+(Municipal apartment - (저소득층이 사는) 아파트
+House/apartment - 아파트
+With parents - 부모님과 같이 삶
+Co_op apartment - 공용 아파트
+Rented apartment - 임대 아파트
+Office apartment - 사무실 아파트(오피스텔))
+days_birth - 출생일 (데이터 수집 당시(0)부터 역으로 셈)
+days_employed - 업무 시작일 (데이터 수집 당시(0)부터 역으로 셈, 양수 값은 고용되지 않은 상태)
+flag_mobil - 핸드폰 소유 여부
+work_phone - 업무용 전화 소유 여부
+phone - 집 전화 소유 여부
+email - 이메일 소유 여부
+occyp_type - 직업 유형
+family_size - 가족 규모
+begin_month - 신용카드 발급 월 (데이터 수집 당시(0)부터 역으로 셈, -1은 데이터 수집일 한 달 전에 발급)
+credit - 사용자의 신용카드 대금 연체를 기준으로 한 신용도 (낮을 수록 높은 신용의 신용카드 사용자, 좋은거)
