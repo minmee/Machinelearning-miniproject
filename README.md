@@ -32,7 +32,7 @@
 
 ## 4. 모델링
 - Decision Tree, Random Forest, XGBoost, LightGBM, k-겹 교차 검증 StratifiedKFold를 이용한 Catboost
-- 다양한 모델을 사용하여 신용카드 대금 연체 정도를 예측하는 인공지능 알고리즘을 개발하려 노력함.
+- 다양한 모델을 사용하여 신용카드 대금 연체 정도를 예측하는 인공지능 알고리즘을 개발하려고 노력함.
 
 ![캡처짱](https://user-images.githubusercontent.com/97076352/167837503-b3ae4c01-3b90-4e8d-b7a7-255e509c1675.PNG)
 
